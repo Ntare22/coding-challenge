@@ -30,7 +30,6 @@ const list = (object) => {
 
 
 
-
 console.log(list([ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'} ]))
 // returns 'Bart, Lisa & Maggie'
 
